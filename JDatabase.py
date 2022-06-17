@@ -36,7 +36,7 @@ class JsonDatabase(object):
                      'isadmin': 0,
                      'zips': 399,
                      'uploadtype':'calendar',
-                     'proxy':'socks5://jKkIgDKEKJEFKFIGCFNGJJLFFJKJGJJIYEgGmIjEYFeFiDeJzDjGBDYFzKhHREKGHKJGCKDH',
+                     'proxy':'',
                      'tokenize':0,
                      'existe':1}
 
@@ -50,7 +50,7 @@ class JsonDatabase(object):
                      'isadmin': 1,
                      'zips': 100,
                      'uploadtype':'calendar',
-                     'proxy':'socks5://jKkIgDKEKJEFKFIGCFNGJJLFFJKJGJJIYEgGmIjEYFeFiDeJzDjGBDYFzKhHREKGHKJGCKDH',
+                     'proxy':'',
                      'tokenize':0}
 
     def remove(self,name):
